@@ -1,0 +1,41 @@
+body {
+    overflow-x: hidden;
+}
+
+html {
+    overflow-x: hidden;
+}
+
+
+.input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+
+html {
+    background-color: rgb(175, 210, 227);
+}
+
+.main {
+    background-color: rgb(175, 210, 227);
+}
+
+.relative {
+    width: 1000px;
+}
+
+.weather-list {
+    margin-top: 10%;
+}
+
+.title {
+    margin-right: 10%;
+}
+
+
+
+
